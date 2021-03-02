@@ -2,6 +2,7 @@
   <div id="app">
       <p>要投就投中国人寿</p>
       <p>我他妈的就不投</p>
+      <p>自动测试，你到底成功不成功</p>
    <img src="https://hehao-gmall.oss-cn-shanghai.aliyuncs.com/2021-01-19/73b53150-ee50-456f-8c06-562006edc976_14.jpg"/>
   </div>
 </template>
